@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(23,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(23,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(23,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(51,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(52,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(85,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(159,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(162,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Ping Pong\FileName.cpp(166,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ping Pong.vcxproj -> C:\Users\PC\Desktop\Visual Studio\Ping Pong\x64\Debug\Ping Pong.exe

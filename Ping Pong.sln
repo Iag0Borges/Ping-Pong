@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ping Pong", "Ping Pong.vcxproj", "{94914E80-254F-423A-9339-4293D946BC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94914E80-254F-423A-9339-4293D946BC43}.Debug|x64.ActiveCfg = Debug|x64
+		{94914E80-254F-423A-9339-4293D946BC43}.Debug|x64.Build.0 = Debug|x64
+		{94914E80-254F-423A-9339-4293D946BC43}.Debug|x86.ActiveCfg = Debug|Win32
+		{94914E80-254F-423A-9339-4293D946BC43}.Debug|x86.Build.0 = Debug|Win32
+		{94914E80-254F-423A-9339-4293D946BC43}.Release|x64.ActiveCfg = Release|x64
+		{94914E80-254F-423A-9339-4293D946BC43}.Release|x64.Build.0 = Release|x64
+		{94914E80-254F-423A-9339-4293D946BC43}.Release|x86.ActiveCfg = Release|Win32
+		{94914E80-254F-423A-9339-4293D946BC43}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4AECAB-878A-4C41-A68F-63AF1B8BB146}
+	EndGlobalSection
+EndGlobal
